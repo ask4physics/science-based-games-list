@@ -57,6 +57,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * strategy
 * GNU/Linux ($), MacOS ($), Windows ($)
 
+#### Orbiter 2016
+
+* [orbit.medphys.ucl.ac.uk/index](http://orbit.medphys.ucl.ac.uk/index.html)
+* Newtonian physics, orbital mechanics, flight mechanics
+* Space Flight Simulator
+* Windows (free)
+
 #### Delta V
 * [deltav.corpsmoderne.net](http://deltav.corpsmoderne.net/)
 * Newtonian physics, orbital mechanics
@@ -326,6 +333,27 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 ### Computer science
 
+#### Digital Logic Design (The Game)
+* [http://asteriskman7.github.io/dldtg/](http://asteriskman7.github.io/dldtg/)
+* digital logic design
+* increment game
+* web-based (free of charge)
+* GPLv3 License: [https://github.com/asteriskman7/dldtg](https://github.com/asteriskman7/dldtg)
+
+#### nandgame
+* [http://nandgame.com/](http://nandgame.com/)
+* digital logic and computer design
+* puzzle
+* build a processor from start
+* web-based (free of charge)
+
+#### Deadlock Empire
+
+* [https://deadlockempire.github.io/](https://deadlockempire.github.io/)
+* Multi-threading
+* puzzle
+* web (free of charge)
+
 #### Recursed
 
 * [Steam page](https://store.steampowered.com/app/497780/Recursed/)
@@ -563,6 +591,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [4dtoys.com](http://4dtoys.com/)
 * playing with 4-dimensional shapes
 * Windows ($)
+
+#### Dragonbox Algebra
+
+* [dragonbox algebra](https://dragonbox.com/products/algebra-12)
+* Entertaining puzzle game stealthily teaches you to solve algebraic equations
+* Android ($), iOS ($)
 
 ### Sociology and economy
 
